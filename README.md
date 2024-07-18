@@ -1,5 +1,6 @@
 # 여행의경험 소셜미디어에 담다
-![image](https://github.com/user-attachments/assets/1c2ad362-728d-4e95-b77d-daca172dbcd5)
+![image](https://github.com/user-attachments/assets/9045cb07-2336-46e0-a199-c24e0c04142a)
+
 
 
 ## 사이트
