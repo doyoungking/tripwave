@@ -1,15 +1,33 @@
 # 여행의경험 소셜미디어에 담다
+![image](https://github.com/user-attachments/assets/1c2ad362-728d-4e95-b77d-daca172dbcd5)
 
+
+## 사이트
+배포 URL : http://tripwaves.site
+## 회원가입 or 테스트 계정으로 접속 하실수 있습니다.
+테스트 ID : test <br>
+테스트 PW : test1!
   <div style="text-align: left;"> 
+     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 기간:2024.06.03~2024.07.18</h2>  
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발인원 : 3명</h2>  
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 기간:2024.06.03~2024.07.18</h2>  
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 개요 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 이 프로젝트는 gcp 기반으로 실제 배포하여 웹기반 아키택처에 대한 전체적인 개발을 진행한 여행 테마 소셜미디어 프로젝트 입니다.이 프로젝트의 주요 목표는 사용자들이 자신의 여행 경험을 공유하고, 이를 통해 소셜 네트워킹을 할 수 있는 환경을 제공하는것을 목표로 하였습니다.이를 통해 소비자들이 국내 여행 정보를 더 쉽게 찾고, 개인의 경험을 바탕으로 신뢰성 있는 정보를 제공받을수 있을것으로 기대됩니다.
-사용자는 자신의 여행 경험을 게시물이나 쇼츠 형태로 공유하고, 다른 사용자를 팔로우하며 소통할 수 있습니다. 관리자는 회원 정
-보와 게시글, 쇼츠를 효율적으로 관리할 수 있습니다</li></li></div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 팀원 구성</h2>
+   
+<div>
+    
+| **이정우** | **이태형** | **김도영** |
+| :------: |  :------: | :------: |
+| ![thumb_150x150_sgsqc4_uqd9-ilz66_17194464619271](https://github.com/user-attachments/assets/229964de-031f-461d-b270-1efb73333195)|![thumb_150x150_sgsrl4_yodh-ilz66_](https://github.com/user-attachments/assets/c50c3825-55ef-4b82-991d-6e5fb7a52847) |![thumb_150x150_sgsrbt_5zx9-ilz66_2024071600024](https://github.com/user-attachments/assets/c19e442c-d703-40ba-aa91-129ad521e5d6) |
+</div>
+   
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 개요 </h2>  
+
+- 이 프로젝트는 gcp 기반으로 실제 배포하여 웹기반 아키택처에 대한 전체적인 개발을 진행한 여행 테마 소셜미디어 프로젝트 입니다.
+- 이 프로젝트의 주요 목표는 사용자들이 자신의 여행 경험을 공유하고, 이를 통해 소셜 네트워킹을 할 수 있는 환경을 제공하는것을 목표로 하였습니다.
+- 사용자는 자신의 여행 경험을 게시물이나 쇼츠 형태로 공유하고, 다른 사용자를 팔로우하며 소통할 수 있습니다. 
+- 관리자는 회원 정보와 게시글, 쇼츠를 효율적으로 관리할 수 있습니다</li></li></div> 
   
   [여행의경험 소셜미디어에담다_PDF](https://github.com/doyoungking/TripSNS_project/blob/DEV/%EC%97%AC%ED%96%89%EC%9D%98%20%EA%B2%BD%ED%97%98%20%EC%86%8C%EC%85%9C%EB%AF%B8%EB%94%94%EC%96%B4%EC%97%90%EB%8B%B4%EB%8B%A4.pdf)
-  </div>
+
   
  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 주요 기능</h2>  
 회원 기능:회원가입, 로그인, 프로필 및 개인정보 수정, 회원 탈퇴,팔로우,알람기능[개발자:김도영]<br>
